@@ -1,0 +1,10 @@
+plugins {
+    id 'groovy'
+
+}
+repositories {
+    mavenCentral()
+}
+dependencies{
+    implementation 'org.codehaus.groovy'
+}
